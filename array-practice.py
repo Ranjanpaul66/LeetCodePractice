@@ -44,4 +44,3 @@ print(a)
 
 # Can pop by index value
 print(a.pop(1))
-
